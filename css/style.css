@@ -357,14 +357,14 @@ header .follow a:hover{
 }
 
 .about .row-2 .box-container{
-    flex: 0 0 40rem;
+    flex: 0 0 30rem;
     display: flex;
     gap: 2rem;
     flex-wrap: wrap;
 }
 
 .about .row-2 .box-container .box{
-    flex:1 1 15rem;
+    flex:1 1 20rem;
     background:#fff;
     padding:2rem;
     border-radius: .5rem;
